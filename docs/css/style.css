@@ -10,8 +10,7 @@ body {
 
 p {
   font-size: 0.938em;
-  color: #898989;
-  font-style: italic;
+  color: #555555;
   line-height: 19px;
   margin: 0 0 20px 0;
 }
@@ -361,6 +360,12 @@ footer .copyright {
   section.about article {
     text-align: center;
   }
+
+section.about figure.row.medium-12 img
+{
+  margin-bottom: 50px;
+  width: 80%;
+}
 
   section.services {
     padding: 40px 0;

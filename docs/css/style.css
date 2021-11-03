@@ -367,6 +367,14 @@ section.about figure.row.medium-12 img
   width: 80%;
 }
 
+section.about figure.row.medium-12 img .center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
   section.services {
     padding: 40px 0;
   }
